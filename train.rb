@@ -22,4 +22,5 @@ class Train
     else
       'diesel'
     end
+  end 
 end
